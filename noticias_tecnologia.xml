@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0"  xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel> 
+        
+        <title>Noticias de Tecnología 2025</title>
+        <link>https://elpais.com/tecnologia/</link>
+        <description>Las noticias más relevantes del mundo tecnológico.</description>
+        <language>es</language>
+        <pubDate>Wed, 29 Jan 2025 08:34:00 EST</pubDate>
+        <lastBuildDate>Wed, 29 Jan 2025 09:00:00 EST</lastBuildDate>
+ 
+        <item>
+            <title>Lanzamiento de Deepseek</title>
+            <link>https://elpais.com/tecnologia/2025-01-30/deepseek-no-es-un-juego-el-peligro-para-la-privacidad-de-la-nueva-ia-china.html?autoplay=1</link>
+            <description>Las descargas masivas de la aplicación del país asiático amplían el potencial de controlar, desinformar y erosionar principios democráticos.</description>
+            <pubDate>Wed, 29 Jan 2025 09:00:00 EST</pubDate>
+            <guid>https://elpais.com/tecnologia/2025-01-30/deepseek-no-es-un-juego-el-peligro-para-la-privacidad-de-la-nueva-ia-china.html?autoplay=1</guid>
+            <enclosure url="https://wwwhatsnew.com/wp-content/uploads/2024/12/deepseek.jpeg" type="image/jpeg" length="12345" />
+            <category>Tecnología</category>
+            <author>alvarogutierrez874@gmail.com (Alvaro Gutierrez)</author>
+            <comments>https://elpais.com/tecnologia/2025-01-30/deepseek-no-es-un-juego-el-peligro-para-la-privacidad-de-la-nueva-ia-china.html?autoplay=1</comments>
+        </item>
+ 
+        <item>
+            <title>Lanzado con éxito el SpainSat NG I</title>
+            <link>https://elpais.com/ciencia/2025-01-30/lanzado-con-exito-el-spainsat-ng-i-un-avanzado-satelite-para-garantizar-comunicaciones-seguras-al-ejercito-espanol.html</link>
+            <description>España entra en la élite espacial con el lanzamiento de un aparato avanzado que prestará servicio al Gobierno y a las Fuerzas Armadas, a naciones aliadas y a la OTAN.</description>
+            <pubDate>Wed, 29 Jan 2025 09:00:00 EST</pubDate>
+            <guid>https://elpais.com/ciencia/2025-01-30/lanzado-con-exito-el-spainsat-ng-i-un-avanzado-satelite-para-garantizar-comunicaciones-seguras-al-ejercito-espanol.html</guid>
+            <enclosure url="https://imagenes.heraldo.es/files/image_990_556/uploads/imagenes/2025/01/30/fotografia-tomada-de-la-red-social-x-de-la-cuenta-oficial-spacex-spacex-del-cohete-falcon-9-despegando-este-miercoles-en-cabo-canaveral-estados-unidos.jpeg" type="image/jpeg" length="12345" />
+            <category>Tecnología</category>
+            <author>alvarogutierrez874@gmail.com (Alvaro Gutierrez)</author>
+            <comments>https://elpais.com/ciencia/2025-01-30/lanzado-con-exito-el-spainsat-ng-i-un-avanzado-satelite-para-garantizar-comunicaciones-seguras-al-ejercito-espanol.html</comments>
+        </item>
+
+        <item>
+            <title>OpenAI y Microsoft aseguran que la china DeepSeek se aprovechó de sus modelos de IA</title>
+            <link>https://elpais.com/tecnologia/2025-01-29/openai-y-microsoft-aseguran-que-la-china-deepseek-se-aprovecho-de-sus-modelos-de-ia.html</link>
+            <description>El nuevo ‘chatbot’ que ha revolucionado el mercado de la inteligencia artificial abarató su entrenamiento aprovechando información de sus rivales.</description>
+            <pubDate>Wed, 29 Jan 2025 09:00:00 EST</pubDate>
+            <guid>https://elpais.com/tecnologia/2025-01-29/openai-y-microsoft-aseguran-que-la-china-deepseek-se-aprovecho-de-sus-modelos-de-ia.html</guid>
+            <enclosure url="https://images.ecestaticos.com/IcWvwMTkI61HvimWYQ0zkzYwSJk=/0x0:2272x1515/1200x675/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2Feac%2Fb4e%2Fe3f%2Feacb4ee3fab78a69d63196a030a7cd50.jpg" type="image/jpeg" length="12345" />
+            <category>Tencología</category>
+            <author>alvarogutierrez874@gmail.com (Alvaro Gutierrez)</author>
+            <comments>https://elpais.com/tecnologia/2025-01-29/openai-y-microsoft-aseguran-que-la-china-deepseek-se-aprovecho-de-sus-modelos-de-ia.html</comments>
+        </item>
+    </channel>
+</rss>
